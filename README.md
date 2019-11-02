@@ -1,4 +1,4 @@
 
 # ScrollMagic Simple Sample of Background Image
 
-ScrollMagic + GreenSock
+Test of ScrollMagic background image
